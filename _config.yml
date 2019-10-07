@@ -27,7 +27,7 @@ twitter_username: titchard
 github_username:  titchard
 
 # Build settings
-theme: dinky
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
